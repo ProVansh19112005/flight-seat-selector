@@ -1,6 +1,14 @@
 # Flight seat selection
 
+**Live demo:** https://flight-seat-selector.vercel.app
+
 A seat picker for up to six passengers on a 3–2 or 2–3–2 cabin. Each passenger gets one seat and optionally a meal, and the total updates as you go. Everything runs on mock data.
+
+## Screenshots
+
+![Seat map](screenshots/seat-map.jpg)
+
+![Seat selection in progress](screenshots/working.jpg)
 
 ## Running it
 
