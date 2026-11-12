@@ -6,9 +6,9 @@ A seat picker for up to six passengers on a 3–2 or 2–3–2 cabin. Each passe
 
 ## Screenshots
 
-![Seat map](screenshots/seat-map.jpg)
+![Seat map](screenshots/seat-map.jpeg)
 
-![Seat selection in progress](screenshots/working.jpg)
+![Seat selection in progress](screenshots/working.jpeg)
 
 ## Running it
 
